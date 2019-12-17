@@ -1,0 +1,26 @@
+p.normal {
+    font-style: normal;
+}
+
+p.italic {
+    font-style: italic;
+}
+
+p.oblique {
+    font-style: oblique;
+    font-variant: small-caps;
+}
+p{
+    font-variant: small-caps;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/*phan tu em tham chieu font-size phan tu me*/
+/*phan tu rem tham chieu font-size phan tu html*/
+
+/*font-variant: normal, small-caps: chuyen chu thuong
+thanh chu Hoa dang nho*/
